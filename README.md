@@ -33,16 +33,13 @@ Before you begin, ensure you have met the following requirements:
 To install and run this project on your local machine, follow these steps:
 
 1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/dgati-codes/account-exception-handling-demo.git
-1. Change to the project directory:
-```bash
+      git clone https://github.com/dgati-codes/account-exception-handling-demo.git
+2. Change to the project directory:
     cd account-exception-handling-demo
-2. Build and run the application using Maven:
-```bash
-mvn spring-boot:run
+3. Build and run the application using Maven:
+      mvn spring-boot:run
 3. Access the application in your web browser at http://localhost:8282. You can explore the API endpoints, test the exception handling, and interact with the application.
+
 Usage
 This project demonstrates various account management operations and how exceptions are handled within the application. You can perform the following actions:
 
