@@ -14,7 +14,7 @@ This project showcases a advance account management system, including functional
 4. [Usage](#usage)
 5. [Folder Structure](#folder-structure)
 6. [Contributing](#contributing)
-7. [License](#license)
+
 
 ## Getting Started
 
@@ -53,6 +53,7 @@ The application provides appropriate error messages and responses when exception
 src/main/java/io/dave: Contains the Java source code for the project.
 src/main/resources: Contains configuration files
 src/test: Contains test cases for the application(no test written yet).
-Contributing
+
+## Contributing
 I welcome contributions from the community. If you have any ideas, enhancements, or bug fixes, please feel free to create issues or pull requests. I will appreciate your contributions!
 Thank you for exploring the Account Exception Handling Demo. I hope you find this project useful and informative. If you have any questions or feedback, please don't hesitate to reach out.
